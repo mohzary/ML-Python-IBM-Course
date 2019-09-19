@@ -10,7 +10,7 @@ Coverd topics:
       
       2.Multiple Linear Regression
       
-      3.Non Linear Regression
+      3.Non-Linear Regression
       
   -Classification
   
