@@ -2,7 +2,7 @@
 This is Machine Learning with Python course lab practice.
 
 
-Coverd topics:
+Covered topics:
 
     -Regression:
 
