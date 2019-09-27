@@ -14,6 +14,11 @@ Covered topics:
 
     -Classification
 
-    -Clustering
+    -Clustering:
+        1.K-Means Clustering
+        
+        2.Hierarchical Clustering
+        
+        3.DBSCAN Clustering
 
     -Recommender systems
