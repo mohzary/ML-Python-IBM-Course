@@ -14,6 +14,6 @@ Covered topics:
 
     -Classification
 
-    -Clustring
+    -Clustering
 
     -Recommender systems
